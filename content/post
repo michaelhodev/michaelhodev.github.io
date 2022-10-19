@@ -19,7 +19,7 @@ markdown: false
 	</div>
 </div>
 
-::+ config.sidebar::
+::sidebar.md::
 
 <div id="main">
 	<article>
