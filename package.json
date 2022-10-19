@@ -18,8 +18,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "watch": "watchify js/index.js -o js/build.js -d",
-    "build": "browserify js/index.js | uglifyjs -m > js/build.js"
+    "watch": "npm watchify js/index.js -o js/build.js -d",
+    "build": "npm browserify js/index.js | npm uglifyjs -m > js/build.js"
   },
   "dependencies": {
     "fruitdown": "1.0.1",
