@@ -1,4 +1,5 @@
-# 5.0.0
+#
+lsq:5.0.0
 
 - Noddity page links are now encoded.  Hash links that are clicked are now decoded after being received from the router. [#68](https://github.com/TehShrike/noddity/issues/68)
 
