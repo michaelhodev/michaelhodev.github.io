@@ -19,6 +19,8 @@ markdown: false
 	</div>
 </div>
 
+::+ config.sidebar::
+
 <div id="main">
 	<article>
 		<div>
